@@ -1,24 +1,933 @@
 {
     "wallpapers": [
-        {
+      {
+        "name": "from-internet",
+        "content": [
+          {
+            "name": "elementary-os",
+            "content": [
+              [
+                "Ashim DSilva.jpg",
+                "Canazei Granite Ridges.jpg",
+                "Julia Craice.jpg",
+                "Martin Adams.jpg",
+                "Morskie Oko.jpg",
+                "Mr. Lee.jpg",
+                "Nattu Adnan.jpg",
+                "Photo by SpaceX.jpg",
+                "Photo of Valley.jpg",
+                "Snow-Capped Mountain.jpg",
+                "Sunset by the Pier.jpg",
+                "Tj Holowaychuk.jpg",
+                "Viktor Forgacs.jpg",
+                "leigh-kendell-581.jpg",
+                "odin-dark.jpg",
+                "odin.jpg"
+              ]
+            ]
+          },
+          [
+            "wallpaper1.jpg",
+            "wallpaper10.jpg",
+            "wallpaper11.jpg",
+            "wallpaper12.jpg",
+            "wallpaper13.jpg",
+            "wallpaper14.jpg",
+            "wallpaper15.jpg",
+            "wallpaper2.jpg",
+            "wallpaper3.jpg",
+            "wallpaper4.jpg",
+            "wallpaper5.jpg",
+            "wallpaper6.jpg",
+            "wallpaper7.jpg",
+            "wallpaper8.jpg",
+            "wallpaper9.jpg"
+          ]
+        ]
+      },
+      {
         "name": "my-wallpapers",
-        "content": [{
+        "content": [
+          {
             "name": "a",
-            "content": ["red.png", "orange.png"]
-        }, {
-            "name": "rgb",
-            "content": ["000.png", "rgb.png"]
-        }, {
+            "content": [
+              [
+                "aqua.png",
+                "blue.png",
+                "gray.png",
+                "green.png",
+                "orange.png",
+                "purple.png",
+                "red.png"
+              ]
+            ]
+          },
+          {
             "name": "ledstrip",
-            "content": ["rgb.jpg", "red.jpg"]
-            }, ["Flower.jpg", "Flowers.jpg", "Insects.jpg"]]
-        },
-        {
-            "name": "from-internet",
-            "content": [{
-                "name": "elementary-os",
-                "content": ["odin.jpg", "odin-dark.jpg"]
-            }, ["wallpaper1.jpg", "wallpaper2.jpg"]]
-        }
+            "content": [
+              [
+                "blue.jpg",
+                "green.jpg",
+                "red.jpg",
+                "rgb.jpg"
+              ]
+            ]
+          },
+          {
+            "name": "rgb",
+            "content": [
+              [
+                "000.png",
+                "00b.png",
+                "0g0.png",
+                "bbb.png",
+                "ggg.png",
+                "r00.png",
+                "rgb.png",
+                "rrr.png"
+              ]
+            ]
+          },
+          [
+            "Corner_of_my_desk.jpg",
+            "Dark_forest.jpg",
+            "Dark_park.jpg",
+            "Ducks_in_the_sea.jpg",
+            "Flower.jpg",
+            "Flowers.jpg",
+            "Grass.jpg",
+            "Hill.jpg",
+            "Insects.jpg",
+            "Keys.jpg",
+            "Leaf.jpg",
+            "Leaves_in_the_rock.jpg",
+            "Mountain.jpg",
+            "My_wallpapers.png",
+            "Plank.jpg",
+            "Sky.jpg",
+            "Stairs.jpg",
+            "Stones.jpg",
+            "Stop.jpg",
+            "Sun.jpg",
+            "Sunset.jpg",
+            "Trees.jpg",
+            "lamp_dark.png"
+          ]
+        ]
+      },
+      {
+        "name": "windows",
+        "content": [
+          {
+            "name": "cuted",
+            "content": [
+              [
+                "10new-c.png",
+                "10old-c.png",
+                "11dark-c.png",
+                "11light-c.png",
+                "7-c.png",
+                "8-c.png",
+                "8_1-c.png",
+                "Vista-c.png",
+                "XP-c.png"
+              ]
+            ]
+          },
+          {
+            "name": "original",
+            "content": [
+              {
+                "name": "windows-10",
+                "content": [
+                  {
+                    "name": "4K",
+                    "content": [
+                      [
+                        "img0_1024x768.jpg",
+                        "img0_1200x1920.jpg",
+                        "img0_1366x768.jpg",
+                        "img0_1600x2560.jpg",
+                        "img0_2160x3840.jpg",
+                        "img0_2560x1600.jpg",
+                        "img0_3840x2160.jpg",
+                        "img0_768x1024.jpg",
+                        "img0_768x1366.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "4Kold",
+                    "content": [
+                      [
+                        "img0_1024x768.jpg",
+                        "img0_1200x1920.jpg",
+                        "img0_1366x768.jpg",
+                        "img0_1600x2560.jpg",
+                        "img0_2160x3840.jpg",
+                        "img0_2560x1600.jpg",
+                        "img0_3840x2160.jpg",
+                        "img0_768x1024.jpg",
+                        "img0_768x1366.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Screen",
+                    "content": [
+                      [
+                        "img100.jpg",
+                        "img101.png",
+                        "img102.jpg",
+                        "img103.png",
+                        "img104.jpg",
+                        "img105.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Wallpaper",
+                    "content": [
+                      {
+                        "name": "Theme1",
+                        "content": [
+                          [
+                            "img1.jpg",
+                            "img13.jpg",
+                            "img2.jpg",
+                            "img3.jpg",
+                            "img4.jpg"
+                          ]
+                        ]
+                      },
+                      {
+                        "name": "Theme2",
+                        "content": [
+                          [
+                            "img10.jpg",
+                            "img11.jpg",
+                            "img12.jpg",
+                            "img7.jpg",
+                            "img8.jpg",
+                            "img9.jpg"
+                          ]
+                        ]
+                      },
+                      [
+                        "img0.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Wallpaperold",
+                    "content": [
+                      {
+                        "name": "Theme1",
+                        "content": [
+                          [
+                            "img1.jpg",
+                            "img13.jpg",
+                            "img2.jpg",
+                            "img3.jpg",
+                            "img4.jpg"
+                          ]
+                        ]
+                      },
+                      {
+                        "name": "Theme2",
+                        "content": [
+                          [
+                            "img10.jpg",
+                            "img11.jpg",
+                            "img12.jpg",
+                            "img7.jpg",
+                            "img8.jpg",
+                            "img9.jpg"
+                          ]
+                        ]
+                      },
+                      [
+                        "img0.jpg"
+                      ]
+                    ]
+                  },
+                  []
+                ]
+              },
+              {
+                "name": "windows-11",
+                "content": [
+                  {
+                    "name": "4K",
+                    "content": [
+                      [
+                        "img0.jpg",
+                        "img19.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Screen",
+                    "content": [
+                      [
+                        "img100.jpg",
+                        "img101.jpg",
+                        "img102.jpg",
+                        "img103.jpg",
+                        "img104.jpg",
+                        "img105.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Wallpaper",
+                    "content": [
+                      {
+                        "name": "Captured_movement",
+                        "content": [
+                          [
+                            "img24.jpg",
+                            "img25.jpg",
+                            "img26.jpg",
+                            "img27.jpg"
+                          ]
+                        ]
+                      },
+                      {
+                        "name": "Course",
+                        "content": [
+                          [
+                            "img32.jpg",
+                            "img33.jpg",
+                            "img34.jpg",
+                            "img35.jpg"
+                          ]
+                        ]
+                      },
+                      {
+                        "name": "Glow",
+                        "content": [
+                          [
+                            "img20.jpg",
+                            "img21.jpg",
+                            "img22.jpg",
+                            "img23.jpg"
+                          ]
+                        ]
+                      },
+                      {
+                        "name": "Sunrise",
+                        "content": [
+                          [
+                            "img28.jpg",
+                            "img29.jpg",
+                            "img30.jpg",
+                            "img31.jpg"
+                          ]
+                        ]
+                      },
+                      [
+                        "img0_1920x1200.jpg",
+                        "img19_1920x1200.jpg"
+                      ]
+                    ]
+                  },
+                  []
+                ]
+              },
+              {
+                "name": "windows-7",
+                "content": [
+                  {
+                    "name": "Architecture",
+                    "content": [
+                      [
+                        "img13.jpg",
+                        "img14.jpg",
+                        "img15.jpg",
+                        "img16.jpg",
+                        "img17.jpg",
+                        "img18.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Characters",
+                    "content": [
+                      [
+                        "img19.jpg",
+                        "img20.jpg",
+                        "img21.jpg",
+                        "img22.jpg",
+                        "img23.jpg",
+                        "img24.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Landscapes",
+                    "content": [
+                      [
+                        "img10.jpg",
+                        "img11.jpg",
+                        "img12.jpg",
+                        "img7.jpg",
+                        "img8.jpg",
+                        "img9.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Nature",
+                    "content": [
+                      [
+                        "img1.jpg",
+                        "img2.jpg",
+                        "img3.jpg",
+                        "img4.jpg",
+                        "img5.jpg",
+                        "img6.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Scenes",
+                    "content": [
+                      [
+                        "img25.jpg",
+                        "img26.jpg",
+                        "img27.jpg",
+                        "img28.jpg",
+                        "img29.jpg",
+                        "img30.jpg"
+                      ]
+                    ]
+                  },
+                  [
+                    "img0.jpg"
+                  ]
+                ]
+              },
+              {
+                "name": "windows-8",
+                "content": [
+                  {
+                    "name": "Screen",
+                    "content": [
+                      [
+                        "img100.png",
+                        "img101.jpg",
+                        "img102.png",
+                        "img103.jpg",
+                        "img104.jpg",
+                        "img105.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Wallpaper",
+                    "content": [
+                      {
+                        "name": "Theme1",
+                        "content": [
+                          [
+                            "img1.jpg",
+                            "img2.jpg",
+                            "img3.jpg",
+                            "img4.jpg",
+                            "img5.jpg",
+                            "img6.jpg"
+                          ]
+                        ]
+                      },
+                      {
+                        "name": "Theme2",
+                        "content": [
+                          [
+                            "img10.jpg",
+                            "img11.jpg",
+                            "img12.jpg",
+                            "img7.jpg",
+                            "img8.jpg",
+                            "img9.jpg"
+                          ]
+                        ]
+                      },
+                      []
+                    ]
+                  },
+                  [
+                    "img0.jpg"
+                  ]
+                ]
+              },
+              {
+                "name": "windows-81",
+                "content": [
+                  {
+                    "name": "Screen",
+                    "content": [
+                      [
+                        "img100.jpg",
+                        "img101.png",
+                        "img102.jpg",
+                        "img103.png",
+                        "img104.jpg",
+                        "img105.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Wallpaper",
+                    "content": [
+                      {
+                        "name": "Theme1",
+                        "content": [
+                          [
+                            "img1.jpg",
+                            "img13.jpg",
+                            "img2.jpg",
+                            "img3.jpg",
+                            "img4.jpg",
+                            "img5.jpg",
+                            "img6.jpg"
+                          ]
+                        ]
+                      },
+                      {
+                        "name": "Theme2",
+                        "content": [
+                          [
+                            "img10.jpg",
+                            "img11.jpg",
+                            "img12.jpg",
+                            "img7.jpg",
+                            "img8.jpg",
+                            "img9.jpg"
+                          ]
+                        ]
+                      },
+                      []
+                    ]
+                  },
+                  [
+                    "img0.jpg"
+                  ]
+                ]
+              },
+              {
+                "name": "windows-dev",
+                "content": [
+                  [
+                    "DevHome_Dark.png",
+                    "DevHome_Light.png",
+                    "Green_Wave_Dark.png",
+                    "Green_Wave_Light.png",
+                    "Green_Waves2_Dark.png",
+                    "Green_Waves2_Light.png",
+                    "Green_Waves_Dark.png",
+                    "Green_Waves_Light.png",
+                    "Layers_Dark.png",
+                    "Layers_Light.png",
+                    "Purple_Wave_Dark.png",
+                    "Purple_Wave_Light.png",
+                    "Wave_Dark.png",
+                    "Wave_Light.png",
+                    "Waves_Dark.png",
+                    "Waves_Light.png"
+                  ]
+                ]
+              },
+              {
+                "name": "windows-insider-anniversary",
+                "content": [
+                  [
+                    "5.png",
+                    "6_dark.jpg",
+                    "6_light.jpg",
+                    "7_dark.jpg",
+                    "7_light.jpg",
+                    "8.png",
+                    "9_dark.png",
+                    "9_light.png"
+                  ]
+                ]
+              },
+              {
+                "name": "windows-server-2025",
+                "content": [
+                  [
+                    "WallpaperDark.jpg",
+                    "WallpaperLight.jpg"
+                  ]
+                ]
+              },
+              {
+                "name": "windows-vista",
+                "content": [
+                  {
+                    "name": "Black and White",
+                    "content": [
+                      [
+                        "img1.jpg",
+                        "img2.jpg",
+                        "img3.jpg",
+                        "img4.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Light Auras",
+                    "content": [
+                      [
+                        "img25.jpg",
+                        "img26.jpg",
+                        "img27.jpg",
+                        "img28.jpg",
+                        "img29.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Paintings",
+                    "content": [
+                      [
+                        "img12.jpg",
+                        "img13.jpg",
+                        "img14.jpg",
+                        "img15.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Textures",
+                    "content": [
+                      [
+                        "img10.jpg",
+                        "img11.jpg",
+                        "img5.jpg",
+                        "img6.jpg",
+                        "img7.jpg",
+                        "img8.jpg",
+                        "img9.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Vistas",
+                    "content": [
+                      [
+                        "img16.jpg",
+                        "img17.jpg",
+                        "img18.jpg",
+                        "img19.jpg",
+                        "img20.jpg",
+                        "img21.jpg",
+                        "img22.jpg",
+                        "img23.jpg",
+                        "img24.jpg"
+                      ]
+                    ]
+                  },
+                  {
+                    "name": "Widescreen",
+                    "content": [
+                      [
+                        "img30.jpg",
+                        "img31.jpg",
+                        "img32.jpg",
+                        "img33.jpg",
+                        "img34.jpg",
+                        "img35.jpg",
+                        "img36.jpg"
+                      ]
+                    ]
+                  },
+                  []
+                ]
+              },
+              {
+                "name": "windows-xp",
+                "content": [
+                  [
+                    "Windows XP.jpg",
+                    "Безмятежность.bmp",
+                    "В звездных пучинах.jpg",
+                    "Ветер.jpg",
+                    "Восхождение.jpg",
+                    "Голубые кружева 16.bmp",
+                    "Дома.jpg",
+                    "Зеленый камень.bmp",
+                    "Кофейня.bmp",
+                    "Красная пустыня.jpg",
+                    "Кристалл.jpg",
+                    "Лазурь.jpg",
+                    "Лунный цветок.jpg",
+                    "Мир.jpg",
+                    "На рыбалку.bmp",
+                    "Ночной ковыль.bmp",
+                    "Осень.jpg",
+                    "Паркет.bmp",
+                    "Преданность.jpg",
+                    "Пузыри.bmp",
+                    "Рододендрон.bmp",
+                    "Рябь.jpg",
+                    "Сила.jpg",
+                    "Сиреневый пух.bmp",
+                    "Сияние.jpg",
+                    "Стоунхендж.jpg",
+                    "Тюльпаны.jpg",
+                    "Фиолетовый цветок.jpg",
+                    "Штукатурка.bmp",
+                    "Эскорт.jpg",
+                    "Японский мотив.bmp"
+                  ]
+                ]
+              },
+              []
+            ]
+          },
+          {
+            "name": "text",
+            "content": [
+              [
+                "10-t.png",
+                "11-t.png",
+                "7-t.png",
+                "8-t.png",
+                "8_1-t.png",
+                "Vista-t.png",
+                "XP-t.png"
+              ]
+            ]
+          },
+          {
+            "name": "text-and-original",
+            "content": [
+              [
+                "10new-wt.png",
+                "10old-wt.png",
+                "11dark-wt.png",
+                "11light-wt.png",
+                "7-wt.png",
+                "8-wt.png",
+                "8_1-wt.png",
+                "Vista-wt.png",
+                "XP-wt.png"
+              ]
+            ]
+          },
+          []
+        ]
+      },
+      {
+        "name": "youtubers",
+        "content": [
+          {
+            "name": "dm",
+            "content": [
+              {
+                "name": "betawin7",
+                "content": [
+                  [
+                    "6469.png",
+                    "6608.png",
+                    "6801.png",
+                    "6910.png",
+                    "7000.png",
+                    "7022.png"
+                  ]
+                ]
+              },
+              {
+                "name": "galileo",
+                "content": [
+                  [
+                    "muesli_wallpaper_1.png",
+                    "muesli_wallpaper_10.png",
+                    "muesli_wallpaper_11.png",
+                    "muesli_wallpaper_12.png",
+                    "muesli_wallpaper_2.png",
+                    "muesli_wallpaper_3.png",
+                    "muesli_wallpaper_4.png",
+                    "muesli_wallpaper_5.png",
+                    "muesli_wallpaper_6.png",
+                    "muesli_wallpaper_7.png",
+                    "muesli_wallpaper_8.png",
+                    "muesli_wallpaper_9.png"
+                  ]
+                ]
+              },
+              [
+                "Myslivets.Autumn2_16x9.jpg",
+                "Myslivets.Autumn2_4x3.jpg",
+                "Myslivets.Autumn_16x9.jpg",
+                "Myslivets.Autumn_4x3.jpg",
+                "Myslivets.Bicycle_16x9.jpg",
+                "Myslivets.Bicycle_4x3.jpg",
+                "Myslivets.Building_16x9.jpg",
+                "Myslivets.Building_4x3.jpg",
+                "Myslivets.Cat_16x9.jpg",
+                "Myslivets.Cat_4x3.jpg",
+                "Myslivets.Cherry_tree_16x9.jpg",
+                "Myslivets.Cherry_tree_4x3.jpg",
+                "Myslivets.Church2_16x9.jpg",
+                "Myslivets.Church2_4x3.jpg",
+                "Myslivets.Church_16x9.jpg",
+                "Myslivets.Church_4x3.jpg",
+                "Myslivets.Clouds_16x9.jpg",
+                "Myslivets.Clouds_4x3.jpg",
+                "Myslivets.Computer_16x9.jpg",
+                "Myslivets.Electric_Bliss_16x9.jpg",
+                "Myslivets.Electric_Bliss_4x3.jpg",
+                "Myslivets.Evening_Lights_16x9.jpg",
+                "Myslivets.Evening_Lights_4x3.jpg",
+                "Myslivets.Grass_16x9.jpg",
+                "Myslivets.Grass_4x3.jpg",
+                "Myslivets.Hard_Drive_16x9.jpg",
+                "Myslivets.Hard_Drive_4x3.jpg",
+                "Myslivets.Lilium_16x9.jpg",
+                "Myslivets.Lilium_4x3.jpg",
+                "Myslivets.Pond_16x9.jpg",
+                "Myslivets.Pond_4x3.jpg",
+                "Myslivets.RGB_Strip_16x9.jpg",
+                "Myslivets.RGB_Strip_4x3.jpg",
+                "Myslivets.Rose_16x9.jpg",
+                "Myslivets.Rose_4x3.jpg",
+                "Myslivets.Stone-16x9.jpg",
+                "Myslivets.Stone-4x3.jpg",
+                "Myslivets.Traffic_Lights_16x9.jpg",
+                "Myslivets.Traffic_Lights_4x3.jpg"
+              ]
+            ]
+          },
+          {
+            "name": "jd",
+            "content": [
+              {
+                "name": "howtotraindragon",
+                "content": [
+                  [
+                    "1.jpg",
+                    "10.jpg",
+                    "11.jpg",
+                    "12.jpg",
+                    "13.png",
+                    "14.png",
+                    "15.png",
+                    "16.jpg",
+                    "17.png",
+                    "18.jpg",
+                    "19.jpg",
+                    "2.jpg",
+                    "20.png",
+                    "21.jpg",
+                    "22.png",
+                    "23.png",
+                    "24.png",
+                    "25.jpg",
+                    "3.jpg",
+                    "4.jpg",
+                    "5.jpg",
+                    "6.jpg",
+                    "7.jpg",
+                    "8.jpg",
+                    "9.jpg"
+                  ]
+                ]
+              },
+              {
+                "name": "nordstyle",
+                "content": [
+                  [
+                    "1.png",
+                    "10.png",
+                    "11.png",
+                    "12.png",
+                    "13.png",
+                    "14.png",
+                    "15.png",
+                    "16.png",
+                    "17.png",
+                    "18.png",
+                    "19.png",
+                    "2.png",
+                    "20.png",
+                    "3.png",
+                    "4.png",
+                    "5.png",
+                    "6.png",
+                    "7.png",
+                    "8.png",
+                    "9.png"
+                  ]
+                ]
+              },
+              {
+                "name": "purplestyle",
+                "content": [
+                  [
+                    "1.png",
+                    "10.png",
+                    "11.png",
+                    "12.png",
+                    "13.png",
+                    "14.png",
+                    "15.png",
+                    "16.png",
+                    "17.png",
+                    "18.png",
+                    "19.png",
+                    "2.png",
+                    "20.png",
+                    "3.png",
+                    "4.jpg",
+                    "5.jpg",
+                    "6.png",
+                    "7.png",
+                    "8.png",
+                    "9.png"
+                  ]
+                ]
+              },
+              []
+            ]
+          },
+          {
+            "name": "mg",
+            "content": [
+              [
+                "10_18946_anydesk.png",
+                "10_9888_vm.png",
+                "10_anydesk.png",
+                "10_beta_vm.png",
+                "10_ltsb_anydesk.png",
+                "10_vm.png",
+                "11_22557_anydesk.png",
+                "11_anydesk.png",
+                "11_pc.png",
+                "11_vm.png",
+                "2000_16x9.png",
+                "2k_vm.png",
+                "7_anydesk.png",
+                "7_vm.png",
+                "8.1_anydesk.png",
+                "8_anydesk.png",
+                "8_vm.png",
+                "9x_vm.png",
+                "Ache.png",
+                "me_vm.png",
+                "taiko_wallpapa.png",
+                "vista_anydesk.png",
+                "vista_pc.png",
+                "vista_vm.png",
+                "xp_anydesk.png",
+                "xp_vm.png"
+              ]
+            ]
+          },
+          []
+        ]
+      }
     ]
-}
+  }

@@ -16,26 +16,31 @@
         request.responseType = "json";
         request.send();
         var arr = [];
-        request.onload = function () {
-            var wallpapers = request.response;
-            pushlist(wallpapers);
-            document.querySelector('img').src = arr[rand(0, arr.length)];
-        };
-        function pushlist(json){
-            json.wallpapers.forEach(element => {
-                element.content.forEach(function(el){
-                    if (typeof(el.content) == "object"){
-                        el.content.forEach(function(e){
-                            arr.push('https://my-wallpapers.github.io/' + element.name + '/' + el.name + '/' + e);
-                        })
-                    } else {
-                        el.forEach(function(e){
-                            arr.push('https://my-wallpapers.github.io/' + element.name + '/' + e);
-                        })
+
+        function pushlist(el, path){
+            if (typeof(el.content) == "object"){
+                pushlist(el.content, `${path}/${el.name}`);
+            } else {
+                el.forEach(function(e){
+                    if (typeof(e.content) == "object")
+                        pushlist(e.content, `${path}/${e.name}`);
+                    else if (typeof(e) == "object") {
+                        e.forEach(function(elem){
+                            arr.push(`https://my-wallpapers.github.io${path}/${elem}`);
+                        });
                     }
-                });
-            });
+                    else
+                        arr.push(`https://my-wallpapers.github.io${path}/${e}`);
+                })
+            }
         }
 
+        request.onload = function () {
+            var wallpapers = request.response;
+            wallpapers.wallpapers.forEach(element => {
+                pushlist(element, "");
+            });
+            document.querySelector('img').src = arr[rand(0, arr.length)];
+        };
     </script>
 </html>
