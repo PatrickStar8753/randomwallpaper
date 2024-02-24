@@ -1,0 +1,24 @@
+{
+    "wallpapers": [
+        {
+        "name": "my-wallpapers",
+        "content": [{
+            "name": "a",
+            "content": ["red.png", "orange.png"]
+        }, {
+            "name": "rgb",
+            "content": ["000.png", "rgb.png"]
+        }, {
+            "name": "ledstrip",
+            "content": ["rgb.jpg", "red.jpg"]
+            }, ["Flower.jpg", "Flowers.jpg", "Insects.jpg"]]
+        },
+        {
+            "name": "from-internet",
+            "content": [{
+                "name": "elementary-os",
+                "content": ["odin.jpg", "odin-dark.jpg"]
+            }, ["wallpaper1.jpg", "wallpaper2.jpg"]]
+        }
+    ]
+}

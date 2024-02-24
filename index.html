@@ -1,0 +1,41 @@
+<html>
+    <body style="margin: 0; padding: 0;">
+        <h1>My wallpapers random wallpaper.</h1>
+        <p>needs for MWWI</p>
+        <img src="" id="IMAGE" style="width: 100%; height: calc(100% - 93px);">
+    </body>
+    <script>
+
+        function rand(min, max) {
+          return Math.floor(Math.random() * (max - min) + min);
+        }
+
+        var requestURL ="http://127.0.0.1:5500/wallpapers.json";
+        var request = new XMLHttpRequest();
+        request.open("GET", requestURL);
+        request.responseType = "json";
+        request.send();
+        var arr = [];
+        request.onload = function () {
+            var wallpapers = request.response;
+            pushlist(wallpapers);
+            document.querySelector('img').src = arr[rand(0, arr.length)];
+        };
+        function pushlist(json){
+            json.wallpapers.forEach(element => {
+                element.content.forEach(function(el){
+                    if (typeof(el.content) == "object"){
+                        el.content.forEach(function(e){
+                            arr.push('https://my-wallpapers.github.io/' + element.name + '/' + el.name + '/' + e);
+                        })
+                    } else {
+                        el.forEach(function(e){
+                            arr.push('https://my-wallpapers.github.io/' + element.name + '/' + e);
+                        })
+                    }
+                });
+            });
+        }
+
+    </script>
+</html>
